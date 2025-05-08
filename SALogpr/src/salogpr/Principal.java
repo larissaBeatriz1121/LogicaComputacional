@@ -45,7 +45,7 @@ public class Principal {
             } 
         }
 
-        // Classificação dos funcionarios
+        // Classificação dos funcionarios e emissão do relatório final
          
          //  Relatorio
         System.out.println("============================================================");
